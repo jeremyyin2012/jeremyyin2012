@@ -2,7 +2,7 @@
 
 ### A Rust & Python Engineer 🧑‍💻 , and currently very addicted to Rust, an amazing programming language. You are welcome to contact me with your needs, and maybe we will have some good cooperation.
 
-- 🔭 I'm currently looking for a job.
+- 🔭 I'm currently looking for a job related to rust.
 - 🌱 I'm currently learning rust for blockchain and system-related development. I have led the development of large-scale SaaS products, which belong to web services.
 - 💬 You can ask me how to use Python or Rust to write clean code in web development, or system architecture, etc.
 - 👀 More About Me: [Jeremy's Blog](https://jeremyyin.com)
