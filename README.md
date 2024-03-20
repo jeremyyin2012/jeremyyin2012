@@ -7,6 +7,7 @@
 - 💬 You can ask me how to use Python or Rust to write clean code in web development, or system architecture, etc.
 - 👀 More About Me: [Jeremy's Blog](https://jeremyyin.com)
 - 📫 How to Reach Me: jeremyyin2012@gmail.com
+- WeChat（微信）: jeremyyin2012
 - Skills, Tools:<br>
 
 <div>
