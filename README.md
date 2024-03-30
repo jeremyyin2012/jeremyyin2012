@@ -1,4 +1,4 @@
-### Hi there, I'm Jeremy Yin
+### Hi there, I'm Jeremy
 
 ### A Python & Rust Engineer, Architect
 
