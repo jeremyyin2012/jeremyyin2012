@@ -2,7 +2,7 @@
 
 ### Not only a Python & Rust Engineer, Architect
 
-- 📫 How to Reach Me: jeremyyin2012@gmail.com
+- 📫 How to Reach Me: jeremyyin2012 at gmail.com
 - Skills, Tools:<br>
 
 <div>
